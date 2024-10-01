@@ -54,12 +54,9 @@ class _LoginState extends State<Login> {
                             mainAxisAlignment: MainAxisAlignment.center,
                             crossAxisAlignment: CrossAxisAlignment.stretch,
                             children: [
-                              // Image.asset(
-                              //   'images/logoMobile.png',
-                              //   fit: BoxFit.fill,
-                              // ),
-                              Placeholder(
-                                child: Text('Logo'),
+                              Image.asset(
+                                'images/ufo-logo.png',
+                                fit: BoxFit.fill,
                               ),
                               const SizedBox(height: 8),
                               Text(
