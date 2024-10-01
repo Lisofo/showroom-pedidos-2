@@ -1,0 +1,15 @@
+{
+    "nombreApp": "showroom",
+    "rutas": [
+        {
+            "camino": "Planificador",
+            "opciones": [
+                {
+                    "ruta": "/menu/origen",
+                    "icon": "calendar_month",
+                    "texto": "Pedidos"
+                }
+            ]
+        }
+    ]
+}
